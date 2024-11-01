@@ -10,4 +10,14 @@
 
 ## Interesting Findings
 
+•	There is a slight negative correlation (-0.018) between the number of followers and public repositories, suggesting that simply having more repositories does not guarantee more followers.
 
+•	The regression slope for followers per repository is -0.051, indicating that, on average, additional public repositories do not significantly increase follower counts.
+
+•	A significant number of users are affiliated with MASAI SCHOOL, indicating a concentrated community of developers from this institution, which may influence collaboration and networking.
+
+•	The regression analysis shows a positive impact (slope of 11.906) of bio length on followers, suggesting that more detailed bios can attract more followers.
+
+•	Users with high leader strength include well-known figures like Anuj-Kumar-Sharma and shradha-khapra, highlighting the importance of perceived authority in gaining followers.
+
+## Actionable Recommendation 
